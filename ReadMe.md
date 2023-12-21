@@ -7,7 +7,7 @@ Support Js and Ts .
 Install the dependencies and devDependencies and start the server.
 
 ```sh
-$ npm install @nmh/myanmar-cities-townships --save
+$ npm install @james-pom/myanmar-cities-townships --save
 ```
 
 ### Ts Example!
